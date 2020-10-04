@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "ecom-app1",
+    "default": "ecom-app1"
+  }
+}
